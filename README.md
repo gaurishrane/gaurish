@@ -8,3 +8,4 @@ This is Gaurish Rane Personal Profile Website
 feature:
 Html5 
 Responsive
+resposive
